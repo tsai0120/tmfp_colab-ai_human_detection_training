@@ -1,0 +1,14 @@
+{
+  "model_name": "tfidf_svm",
+  "baseline_accuracy": 0.9960501974901255,
+  "prompt_A_accuracy": 0.9960501974901255,
+  "prompt_B_accuracy": 0.9960501974901255,
+  "prompt_C_accuracy": 0.9960501974901255,
+  "validation_accuracy": 0.9954,
+  "test_accuracy": 0.9960501974901255,
+  "parameters": {
+    "C": 1.0,
+    "kernel": "linear",
+    "max_features": 5000
+  }
+}

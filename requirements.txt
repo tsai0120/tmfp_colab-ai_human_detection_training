@@ -1,0 +1,25 @@
+# Core Dependencies
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# NLP & Text Processing
+nltk>=3.8.1
+
+# Deep Learning
+torch>=2.0.0
+transformers>=4.35.0
+peft>=0.7.0
+
+# API
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+
+# OpenAI (for data generation)
+openai>=1.3.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+
