@@ -27,6 +27,7 @@ data/*.json
 # Jupyter
 .ipynb_checkpoints/
 *.ipynb
+!colab/*.ipynb
 
 # IDE
 .vscode/
